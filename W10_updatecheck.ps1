@@ -1,3 +1,7 @@
+## Muss vorher installiert sein!
+## Install-Module -Name PSWindowsUpdate -Force
+
+
 # Windows Update-Modul importieren (falls nötig)
 Import-Module PSWindowsUpdate -ErrorAction SilentlyContinue
 
